@@ -49,7 +49,7 @@
                 <a href="<?php echo"$hasil_beranda[6]";?>"><i class='bx bxl-linkedin' ></i></a>
                 <a href="#contact"><i class='bx bx-envelope' ></i></a>
             </div>
-            <a href="#about" class="btn">Tentang Kami</a>
+            <a href="#about" class="btn">Tentang Saya</a>
         </div>
 
         <div class="home-img">
@@ -61,31 +61,31 @@
     </section>
 
     <!-- Sub Section -->
-    <section class="sub-service">
-        <div class="items">
-            <div class="sub-box">
-                <div class="sub-img">
-                    <img src="img/target.svg">
-                </div>
-                <h3>Pixel Sempurna</h3>
-                <p>Metode paling umum untuk mendesain situs web yang berfungsi dengan baik di desktop adalah desain responsif dan adaptif.</p>
+   <section class="sub-service">
+    <div class="items">
+        <div class="sub-box">
+            <div class="sub-img">
+                <img src="img/target.svg">
             </div>
+            <h3>Desain Presisi & Responsif</h3>
+            <p>Mengembangkan tampilan antarmuka yang estetis dan fungsional dengan pendekatan responsif, memastikan pengalaman pengguna optimal di semua perangkat.</p>
+        </div>
 
-            <div class="sub-box">
-                <div class="sub-img">
-                    <img src="img/brush.svg">
-                </div>
-                <h3>Kualitas Tinggi</h3>
-                <p>Kualitas tinggi dalam mengerjakan desain dan system</p>
+        <div class="sub-box">
+            <div class="sub-img">
+                <img src="img/brush.svg">
             </div>
+            <h3>Standar Kualitas Tinggi</h3>
+            <p>Mengutamakan kualitas dalam setiap baris kode dan desain, dengan fokus pada performa, keamanan, dan skalabilitas aplikasi web.</p>
+        </div>
 
-            <div class="sub-box">
-                <div class="sub-img">
-                    <img src="img/energy.svg">
-                </div>
-                <h3>Ide Istimewa</h3>
-                <p>mempunyai ide yang istimewa dalam membuat webiste company profil ,ecomerce system informasi dll.</p>
+        <div class="sub-box">
+            <div class="sub-img">
+                <img src="img/energy.svg">
             </div>
+            <h3>Solusi Digital Inovatif</h3>
+            <p>Menghadirkan solusi digital yang disesuaikan, mulai dari website profil perusahaan hingga sistem informasi dan e-commerce berbasis kebutuhan klien.</p>
+        </div>
 			
 			
 			
