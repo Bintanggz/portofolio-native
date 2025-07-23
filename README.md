@@ -27,7 +27,7 @@ Website ini memiliki tampilan yang responsif dan user-friendly, serta dibangun m
 
 - **HTML5**, **CSS3**, **JavaScript**
 - **Bootstrap** / **Tailwind CSS**
-- **PHP** (jika menggunakan backend)
+- **PHP** 
 - **Git & GitHub**
 
 ---
